@@ -31,7 +31,9 @@ VCS: helps in tracking changes to source code  and coordinating work among team 
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 unit testing it is the testing of individual components or modules of software.
